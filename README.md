@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge.
 
+# I NEVER CODE, I DONT LIKE CODING, I DO 0 DAYS OF CODE *SMILEY FACE*
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
